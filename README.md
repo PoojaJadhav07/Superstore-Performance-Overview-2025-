@@ -1,7 +1,7 @@
-# Superstore-Performance-Overview-2025-
+# Superstore-Performance-Overview-2025
 Superstore Performance Overview 2025 is an interactive Tableau dashboard analyzing sales, profit, orders, and regional performance. It visualizes key business metrics across segments, categories, and states to identify top-performing and underperforming areas. 
 
-# Superstore Performance Overview 2025 – Tableau Dashboard
+
 
 ## 1. Project Overview
 This project presents an interactive Tableau dashboard built on the Superstore dataset to analyze the sales, profit, and order performance for the year 2025. The dashboard helps business teams understand regional performance, product behavior, and customer segment trends through clear visual insights.
