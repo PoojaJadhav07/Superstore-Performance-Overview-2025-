@@ -108,6 +108,7 @@ Lowest-performing sub-categories:
 ---
 
 ## 9. Dashboard Preview
+![Dashboard Preview](https://github.com/PoojaJadhav07/Superstore-Performance-Overview-2025-/blob/main/Super%20store%20Dashborad.PNG)
 
 
 ---
